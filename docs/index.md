@@ -77,6 +77,6 @@ __Missionary, Brazil Campinas Mission.__,Campinas, Brazil
 
 <!-- ### Footer
 
-Last updated: May 2022 -->
+Last updated: Dec 2022 -->
 
 
