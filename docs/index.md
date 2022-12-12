@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Ruben Varela's Resume
 ---
 # Ruben Varela
